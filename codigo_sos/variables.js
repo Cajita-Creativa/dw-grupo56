@@ -14,3 +14,5 @@ function resta() {
 
 suma();
 resta();
+
+numero1 = 6;
