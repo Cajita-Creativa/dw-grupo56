@@ -1,6 +1,6 @@
 def suma():
     ## Añadir en la diapositiva que las variables no usan acento.
-    numero1 = 5
+    numero1 = 7
     numero2 = 10
     suma = numero1 + numero2
     print(suma)
